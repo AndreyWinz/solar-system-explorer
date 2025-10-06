@@ -71,6 +71,7 @@ This project is licensed under the MIT License — see LICENSE
 ## 👨‍🚀 Author
 
 Developed by AndreyWinz
+
 Feel free to contribute, fork, or suggest new features!
 
 ## P.S.
