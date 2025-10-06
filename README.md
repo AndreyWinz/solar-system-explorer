@@ -78,4 +78,4 @@ Feel free to contribute, fork, or suggest new features!
 I do these projects purely for fun, and I decided to upload them to GitHub to share with others. I am not asking or begging for a donation, but if you want to appreciate my work, feel free to donate! You can also send your GitHub username in the "Note" section of the donation page, so I can give you a shout-out in the next repository. Stay tuned for more!
 
 This is my Revolut Payment Link:
-[Thank you so much!](https://revolut.me/andreygdl9)
+[Thank you so much!](https://revolut.me/andreygdl9) ![Revolut_Icon](rev_icon.png)
