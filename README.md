@@ -1,4 +1,6 @@
 # 🌌 Solar System Explorer
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 **Solar System Explorer** is an interactive 2D simulation of the solar system built entirely with HTML5 Canvas and vanilla JavaScript — no external libraries required.  
 It lets you explore celestial motion, zoom, pan, view information panels, and learn space science concepts like gravity, orbits, and distances.
